@@ -1,0 +1,4 @@
+sparse==0.10.0
+nmrsim
+panel
+holoviews
